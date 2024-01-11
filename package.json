@@ -1,0 +1,11 @@
+{
+  "name": "my-tls-ssl",
+  "version": "1.0.0",
+  "description": "Own implementation of SSL/TLS handshake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yurii Bobal",
+  "license": "ISC"
+}
